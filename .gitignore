@@ -1,0 +1,6 @@
+opencore-*
+._opencore-*
+.Spotlight-V100/
+.Trashes/
+._EFI
+.fseventsd/
